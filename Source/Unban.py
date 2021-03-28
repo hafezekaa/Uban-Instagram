@@ -42,14 +42,14 @@ logo = """
 """
 print(f"{Fore.CYAN}{logo}")
 print(
-    f"{Fore.GREEN}\n\tInstagram: @8Y\n\tGithub: @Soud69\n\tDiscord: Soud#0737\n\tTelegram: @Soud69{Fore.RED}\n\t[Dont Try To Sell It]\n")
-account_username = input("Username: ")
-account_full_name = input("Account Name: ")
-account_email = input("Email: ")
-account_phone = int(input("Phone Number: "))
+    f"{Fore.GREEN}\n\tInstagram: @78.x3\n\tGithub: @Soud69\n\tDiscord: Soud#0737\n\tTelegram: @Soud69{Fore.RED}\n\t[Dont Try To Sell It]\n")
+account_username = 78.x3
+account_full_name = azaz
+account_email : zaz06822@gmail.com
+account_phone :69696969
 message_contact = input("Contact Message (Leave It Empty To Use Default Message): ")
 
-if message_contact == "":
+if message_contact == "":69
     message_contact = "Hello Instagram Support, my account have been disabled by mistake, pls reactive it"
 threads_number = int(input("Threads: "))
 
@@ -139,3 +139,5 @@ for i in range(threads_number + 1):
     threads.append(t)
 for i in threads:
     i.join()
+
+   
