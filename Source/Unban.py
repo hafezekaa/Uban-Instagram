@@ -43,10 +43,10 @@ logo = """
 print(f"{Fore.CYAN}{logo}")
 print(
     f"{Fore.GREEN}\n\tInstagram: @8Y\n\tGithub: @Soud69\n\tDiscord: Soud#0737\n\tTelegram: @Soud69{Fore.RED}\n\t[Dont Try To Sell It]\n")
-account_username = input("Username: ")
-account_full_name = input("Account Name: ")
-account_email = input("Email: ")
-account_phone = int(input("Phone Number: "))
+account_username = input("78.x3: ")
+account_full_name = input("azaz : ")
+account_email = input("zaz06822@gmail.com: ")
+account_phone = int(input("6969696969: "))
 message_contact = input("Contact Message (Leave It Empty To Use Default Message): ")
 
 if message_contact == "":
